@@ -1,0 +1,12 @@
+pandas
+python-dotenv
+openai
+anthropic
+mistralai
+google-generativeai
+tenacity
+cohere
+jupyter
+
+
+
