@@ -33,6 +33,7 @@ this project requires API keys for LLM services copy example_env to a new file .
 provide your API keys in .env as shown:
 
 OPENAI_API_KEY=your_openai_api_key_here
+
 ANTHROPIC_API_KEY=your_anthropic_key_here
 # Add others as needed
 
